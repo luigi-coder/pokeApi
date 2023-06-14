@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import reactLogo from '../../assets/react.svg';
-import imgNavBar from '../../assets/navBar.svg';
+import imgNavBar from '../../assets/navbar.svg';
 import './Header.css';
 
 function Header({ handleClick }) {
